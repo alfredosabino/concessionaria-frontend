@@ -1,0 +1,22 @@
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+@import './now-ui-kit.scss';
+.btn-default {
+    background: #24b9d8;
+    &:hover {
+        background: #1a778a;
+    }
+}
+
+.text-default {
+    color: #24b9d8;
+}
+
+.breadcrumb {
+    background-color: #f9f9f9;
+    font-size: 14px;
+}
+
+.breadcrumb-item a {
+    color: #24b9d8;
+    text-decoration: none;
+}
