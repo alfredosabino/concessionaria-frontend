@@ -1,4 +1,5 @@
-Esse projeto foi criado com [React App](https://github.com/facebook/create-react-app).
+Esse projeto frontend - [Concessionaria] foi criado com [React App](https://github.com/facebook/create-react-app).
+Com o intuito de estoque de automoveis, de uma loja.
 
 Vá ao diretorio do projeto, para você iniciar:
 
